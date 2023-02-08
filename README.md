@@ -11,6 +11,6 @@ Todos los proyectos se desarrollan en lenguaje C# usando Visual Studio.
 
 ## Authors
 
-- [Armando Rivera (@mandorc)](https://www.github.com/mandorc)
+- [Armando Rivera (@mandorc)](https://github.com/mandorc/LIS3092-Project-deliveries/tree/main/Pac-Man)
 - Fer
 - David

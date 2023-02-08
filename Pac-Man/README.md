@@ -41,3 +41,7 @@ Las variables utilizadas dentro de la matriz para poder reconocer los elementos 
 |    91    | Fantasma verde.                                                                    |
 |    92    | Fantasma rosa.                                                                     |
 |    93    | Fantasma rojo.                                                                     |
+
+### Algoritmos utilizados
+
+- **[Distancia Manhattan](https://es.wikipedia.org/wiki/Geometr%C3%ADa_del_taxista):** Es utilzada por los fantasmas, permite que sepan la dirección a la que se tienen que mover para poder llegar a Pac-Man.

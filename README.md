@@ -11,6 +11,6 @@ Todos los proyectos se desarrollan en lenguaje C# usando Visual Studio.
 
 ## Authors
 
-- [Armando Rivera (@mandorc)](https://github.com/mandorc)
-- Fer
-- David
+- 168926 - [Armando Rivera Castillo (@mandorc)](https://github.com/mandorc)
+- Ma. Fernanda A. Hernandez Rosas
+- 168665 - David Mayorga Castelán 

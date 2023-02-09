@@ -2,6 +2,8 @@
 
 Para el desarrollo de Pac-Man se buscó que el juego luciera lo más parecido al juego clasico, es decir, con un estilo pixeleado.
 
+![Pac-Man](img/screenshots.png)
+
 ## Desarrollo de juego
 
 - El laberinto se describe por un mapa en texto.

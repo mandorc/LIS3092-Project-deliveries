@@ -1,6 +1,6 @@
 # Entrega de proyectos
 
-A continuació se muestra una lista de los proyectos que se encuentran dentro de este repositorio, los proyectos son los entregables para el curso LIS3092 (laboratorio de videojuegos) impartido en la UDLAP.
+A continuacion se muestra una lista de los proyectos que se encuentran dentro de este repositorio, los proyectos son los entregables para el curso LIS3092 (laboratorio de videojuegos) impartido en la UDLAP.
 
 Todos los proyectos se desarrollan en lenguaje C# usando Visual Studio.
 

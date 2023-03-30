@@ -124,7 +124,7 @@ namespace Pac_Man
         private static void OnPlaybackStopped(object sender, EventArgs e)
         {
             // Código para ejecutar después de que se haya terminado de reproducir el audio
-            Console.WriteLine("Termino la cancion");
+            //Console.WriteLine("Termino la cancion");
         }
 
         bool right, left, up, down = false;
@@ -805,7 +805,7 @@ namespace Pac_Man
             if (joystickGuid == Guid.Empty)
             {
                 //
-                Console.WriteLine("estuvo vacio, es joystick");
+                //Console.WriteLine("estuvo vacio, es joystick");
                 foreach (var deviceInstance in directInput.GetDevices(DeviceType.Joystick, DeviceEnumerationFlags.AllDevices))
                 {
                     joystickGuid = deviceInstance.InstanceGuid;
@@ -849,23 +849,23 @@ namespace Pac_Man
 
             if (e.KeyData == Keys.Right)
             {
-                Console.WriteLine("derecha presionada");
+                //Console.WriteLine("derecha presionada");
                 right = true;
             }
             else if (e.KeyData == Keys.Left)
             {
-                Console.WriteLine("izquierda presionada");
+                //Console.WriteLine("izquierda presionada");
                 left = true;
             }
             else if (e.KeyData == Keys.Up)
             {
-                Console.WriteLine("arriba presionada");
+                //Console.WriteLine("arriba presionada");
             }
             else if (e.KeyData == Keys.Down)
             {
-                Console.WriteLine("abajo presionada");
+                //Console.WriteLine("abajo presionada");
             }
-            Console.WriteLine(e.KeyCode);
+            //Console.WriteLine(e.KeyCode);
             RedrawMap();
         }
         private void GameScene_KeyUp(object sender, KeyEventArgs e)

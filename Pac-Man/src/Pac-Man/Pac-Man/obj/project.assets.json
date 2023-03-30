@@ -4645,11 +4645,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arman\\Documents\\GitHub\\pac-man\\src\\Pac-Man\\Pac-Man\\Pac-Man.csproj",
+      "projectUniqueName": "C:\\Users\\arman\\Documents\\GitHub\\UDLAP\\LIS3092-Project-deliveries\\Pac-Man\\src\\Pac-Man\\Pac-Man\\Pac-Man.csproj",
       "projectName": "Pac-Man",
-      "projectPath": "C:\\Users\\arman\\Documents\\GitHub\\pac-man\\src\\Pac-Man\\Pac-Man\\Pac-Man.csproj",
+      "projectPath": "C:\\Users\\arman\\Documents\\GitHub\\UDLAP\\LIS3092-Project-deliveries\\Pac-Man\\src\\Pac-Man\\Pac-Man\\Pac-Man.csproj",
       "packagesPath": "C:\\Users\\arman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arman\\Documents\\GitHub\\pac-man\\src\\Pac-Man\\Pac-Man\\obj\\",
+      "outputPath": "C:\\Users\\arman\\Documents\\GitHub\\UDLAP\\LIS3092-Project-deliveries\\Pac-Man\\src\\Pac-Man\\Pac-Man\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arman\\AppData\\Roaming\\NuGet\\NuGet.Config",

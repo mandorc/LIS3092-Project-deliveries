@@ -1,0 +1,7 @@
+C:\Users\arman\Desktop\Pac-Man.exe
+C:\Users\arman\Desktop\Pac-Man.dll
+C:\Users\arman\Desktop\Pac-Man.deps.json
+C:\Users\arman\Desktop\Pac-Man.runtimeconfig.json
+C:\Users\arman\Desktop\Pac-Man.pdb
+C:\Users\arman\Desktop\SharpDX.dll
+C:\Users\arman\Desktop\SharpDX.DirectInput.dll
